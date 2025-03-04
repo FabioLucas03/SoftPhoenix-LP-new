@@ -5,9 +5,6 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Header from './components/Header'
 import Hero from './components/Hero'
-import Intro from './components/Intro'
-import Features from './components/Features'
-import SocialIcons from './components/SocialIcons'
 import AboutUs from './components/AboutUs'
 import Services from './components/Services'
 import AiMachineLearning from './components/AiMachineLearning'
@@ -29,9 +26,6 @@ export default function Home() {
     <main>
       <Header />
       <Hero />
-      <Intro />
-      <Features />
-      <SocialIcons />
       <AboutUs />
       <Services />
       <AiMachineLearning />

@@ -1,3 +1,4 @@
+import React from 'react';
 import Image from 'next/image';
 
 export default function AboutUs() {
@@ -25,6 +26,10 @@ export default function AboutUs() {
 
           <div className="column is-6 has-equal-height" data-aos="fade-left">
             <div className="about-image-container">
+              <div className="fire-particle"></div>
+              <div className="fire-particle"></div>
+              <div className="fire-particle"></div>
+              <div className="fire-particle"></div>
               <Image
                 src="/quemsomos.webp"
                 alt="Who We Are Illustration"

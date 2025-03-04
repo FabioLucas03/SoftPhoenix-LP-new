@@ -8,7 +8,7 @@ export default function Header() {
       <div className="navbar-brand">
         <Link href="/" className="navbar-item">
           <img 
-            src="/logo.png" 
+            src="/logosoft.png" 
             alt="SoftPhoenix Logo" 
             width="32" 
             height="32"
